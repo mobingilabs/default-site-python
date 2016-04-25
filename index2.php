@@ -33,7 +33,7 @@
 
                 <h1>おめでとうございます！</h1>
                 <p>moCloud PHP アプリケーションは現在あなた専用の環境で動作しています。</p>
-                <p>Your are running <?php echo ' PHP version: ' . phpversion(); ?></p>
+                <p><?php echo ' PHP version: ' . phpversion(); ?> で動いています。</p>
 
               </div>
             </section>
