@@ -32,7 +32,7 @@
               <div class="col-sm-6 content1">
 
                 <h1>おめでとうございます！</h1>
-                <p>moCloudアプリケーションは現在あなた専用の環境で動作しています。</p>
+                <p>moCloud PHP アプリケーションは現在あなた専用の環境で動作しています。</p>
                 <p>PHP version 5.6.17 で動いています。</p>
 
               </div>
